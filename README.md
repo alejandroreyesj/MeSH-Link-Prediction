@@ -45,7 +45,6 @@ Originally I was going to scrape the MEDLINE API to get data necessary for this 
 
 ### Bibliography
 
-###### My project uses a very similar methodology to the one used in this first article but I conceived my idea prior to discovering this article and uses different metrics: 
 1. Rindflesch, T., Hristovski, D., & Kastrin, A. (2016). Link Prediction on a Network of Co-occurring MeSH Terms: Towards Literature-based Discovery. Methods of Information in Medicine, 55(04), 340-346. doi:10.3414/me15-01-0108 
 
 
